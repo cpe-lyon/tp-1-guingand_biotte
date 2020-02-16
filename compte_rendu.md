@@ -12,7 +12,7 @@
 4. man 6 which (marche pas car which n'a pas - section)
    ex : man 6 intro
 
-	##Navigation dans l'arborescence des fichiers
+##Navigation dans l'arborescence des fichiers
 
 1. 	Aller dans /var/log : cd /var/log
 
