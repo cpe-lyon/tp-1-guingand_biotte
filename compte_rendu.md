@@ -1,6 +1,7 @@
+
 # Exercice 2
 
-	##Manuel
+## Manuel
 
 1. 	La commande which permet de donner le chemin qui va êter parcouru pour lancer le fichier. whatis which 
 
@@ -12,7 +13,7 @@
 4. man 6 which (marche pas car which n'a pas - section)
    ex : man 6 intro
 
-##Navigation dans l'arborescence des fichiers
+## Navigation dans l'arborescence des fichiers
 
 1. 	Aller dans /var/log : cd /var/log
 
@@ -38,7 +39,8 @@ une erreur est donc visible.
 
 11. rm -rf dossier_non_vide
 
-	##Commandes importantes
+## Commandes importantes
+
 	
 1. 	Afficher date + heure : date
 	Commande time : Permet de calculer le temps que mets le programme COMMAND à s'executer.
@@ -99,7 +101,8 @@ une erreur est donc visible.
 
 24.	Car non présent dans la db de locate. Faire updatedb puis le locate marche
 
-#Exercie 4
+# Exercie 4
+
 1. Faire une copie cp .bashrc .bashrc_bak
 
 3. Recharger le fichier bashrc source : ~/.bashrc ou . ~/.bashrc 
