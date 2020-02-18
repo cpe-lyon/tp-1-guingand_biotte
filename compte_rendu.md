@@ -85,7 +85,7 @@ une erreur est donc visible.
 16.	/etc/passwd contient les informations sur les comptes utilisateurs
 	Afficher manuel de passwd : man passwd
 	
-17.	Afficher ordre inverse alphabétique et première colonne: sort -dr passwd | cur -d: -f1
+17.	Afficher ordre inverse alphabétique et première colonne: sort -dr passwd | cut -d: -f1
 
 18.	Afficher nombre d'utilisateur : wc -l passwd
 
